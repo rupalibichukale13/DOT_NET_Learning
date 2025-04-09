@@ -46,7 +46,7 @@ namespace DOT_NET_Learning
             Console.WriteLine($"x || y: {x || y}");   //OR
             Console.WriteLine($"!x: {!x}, !y: {!y}");  //NOR
 
-
+            
 
         }
     }
